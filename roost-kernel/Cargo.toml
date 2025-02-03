@@ -1,0 +1,10 @@
+[package]
+name = "roost-kernel"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+# (dependencies common to your OS core)
+
+[features]
+# Possibly a feature flag for "bootloader" or "test" builds

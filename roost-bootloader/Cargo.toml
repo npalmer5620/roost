@@ -1,0 +1,8 @@
+[package]
+name = "roost-bootloader"
+version = "0.1.0"
+edition = "2021"
+publish = false
+
+[dependencies]
+roost-kernel = { path = "../roost-kernel" }
